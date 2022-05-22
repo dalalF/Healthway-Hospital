@@ -6,4 +6,4 @@ Data Base Description:  You have been asked to design a database for Healthway H
 EER diagrams are basically a more expansive version of ER diagrams. EER models are helpful tools for designing databases with high-level models. With their enhanced features, you can plan databases more thoroughly by delving into the properties and constraints with greater precision.
 For more details about ERR and ER visit this site : https://cacoo.com/blog/er-diagrams-vs-eer-diagrams-whats-the-difference/
 # EER diagram :
-In the EER diagramfile, there is an explanation of  the relationships between entities In Healthway Hospital.
+In the **EER diagramfile**, there is an explanation of  the relationships between entities In Healthway Hospital.
