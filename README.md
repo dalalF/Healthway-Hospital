@@ -6,4 +6,12 @@ Data Base Description:  You have been asked to design a database for Healthway H
 EER diagrams are basically a more expansive version of ER diagrams. EER models are helpful tools for designing databases with high-level models. With their enhanced features, you can plan databases more thoroughly by delving into the properties and constraints with greater precision.
 For more details about ERR and ER visit this site : https://cacoo.com/blog/er-diagrams-vs-eer-diagrams-whats-the-difference/
 # EER diagram :
-In the **EER diagramfile**, there is an explanation of  the relationships between entities In Healthway Hospital.
+In the **EER diagram file**, there is an explanation of  the relationships between entities In Healthway Hospital.
+ # Relational Database Design :
+ Is a set of table definitions (stored base tables or derived views), constraints, and derivation rules. A table scheme is a named set of attributes (columns) that draw their values from domains. Each column, or column set, spanned by a minimal uniqueness constraint is a candidate key.
+ For more details about ERR and ER visit this paper :http://www.cs.kent.edu/~vlee/classes/cs43005_F2007/Lecture/ch7_part1_4up.pdf 
+ # Relational database schema : 
+In the **Relational database schema file**, there is an explanation of  the relationships between entities In Healthway Hospital.
+In the Relational database schema file, there is an explanation of table definitions, constraints, and derivation rulesIn Healthway Hospital.
+
+
