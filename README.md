@@ -9,9 +9,17 @@ For more details about ERR and ER visit this site : https://cacoo.com/blog/er-di
 In the **EER diagram file**, there is an explanation of  the relationships between entities In Healthway Hospital.
  # Relational Database Design :
  Is a set of table definitions (stored base tables or derived views), constraints, and derivation rules. A table scheme is a named set of attributes (columns) that draw their values from domains. Each column, or column set, spanned by a minimal uniqueness constraint is a candidate key.
- For more details about ERR and ER visit this paper :http://www.cs.kent.edu/~vlee/classes/cs43005_F2007/Lecture/ch7_part1_4up.pdf 
+ For more details about Relational Database Design visit this paper :http://www.cs.kent.edu/~vlee/classes/cs43005_F2007/Lecture/ch7_part1_4up.pdf 
  # Relational database schema : 
 In the **Relational database schema file**, there is an explanation of  the relationships between entities In Healthway Hospital.
 In the Relational database schema file, there is an explanation of table definitions, constraints, and derivation rulesIn Healthway Hospital.
+# Implementation (DDL, and DML) statements :
+SQL statements are divided into two major categories: data definition language (DDL) and data manipulation language (DML).
+For more details about DDL and DML  and visit this site : https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+In the **Implementation  code of Healthway Hospital file**, there is an Implementation  code of Healthway Hospital.
+
+
+# recommendation
+To understand databases and how to deal with them and what are the concepts that I touched on above, I recommend this channel of  Mohamed Desouki to visit  this site : https://youtube.com/playlist?list=PL37D52B7714788190
 
 
